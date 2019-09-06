@@ -1,0 +1,1 @@
+{"jobID":"3eee7052-f0fa-3940-5bde-c21308f1841f","spec":{"type":"policy","cause":{"Message":"","User":"Patrick Knes \u003cpatrick.knes@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
